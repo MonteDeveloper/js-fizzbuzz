@@ -13,3 +13,15 @@ body{
     font-size: 1.5rem;
     font-weight: 500;
 }
+
+.my-fizzBG{
+    background-color: #0cd6a1;
+}
+
+.my-buzzBG{
+    background-color: #ffd166;
+}
+
+.my-fizzbuzzBG{
+    background-color: #f0466f;
+}
